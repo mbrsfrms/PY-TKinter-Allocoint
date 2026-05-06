@@ -42,29 +42,8 @@ Allocoint/
 ├── main.py
 ├── logic.py
 ├── budget_ui.py
-├── spending_ui.py
-└── README.md
+└── spending_ui.py
 ```
-
-
-## How to Run the Program
-
-1. Install Python 3 if not already installed.
-2. Clone the repository:
-
-   ```
-   git clone https://github.com/yourusername/allocoint.git
-   ```
-3. Navigate to the project directory:
-
-   ```
-   cd allocoint
-   ```
-4. Run the application:
-
-   ```
-   python main.py
-   ```
 
 
 ## Purpose of the Project
